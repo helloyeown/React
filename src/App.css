@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.productList {
+  background-color: lightsalmon;
+  list-style: none;
+  border: 3px solid palevioletred;
+  display: flex;
+}
+
+.productList li {
+  margin: 3em;
+  padding: 2em;
+  background-color: tomato;
+}
